@@ -15,7 +15,7 @@ os.mkdir(path)
 
 images = []
 for filename in os.listdir(train):
-	print('Ajay111\n')
+	print('Leaf111\n')
 
 	floc = filename
 
